@@ -1,0 +1,13 @@
+Steps to Start:
+
+1) Start a new Java Project in Eclipse 
+2) It gives the necessary Jar files
+3) Add External latest version jar i.e., Selenium-Java jar files
+https://selenium.dev/downloads/
+4) Add Chromdedriver to project 
+https://sites.google.com/a/chromium.org/chromedriver/
+
+
+Important Links:
+ https://selenium.dev/documentation/en/
+ https://selenium.dev/documentation/en/getting_started_with_webdriver/browsers/
