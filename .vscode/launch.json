@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SeleniumLogic",
+            "request": "launch",
+            "mainClass": "seleniumCode.SeleniumLogic",
+            "projectName": "seleniumCode"
+        }
+    ]
+}
